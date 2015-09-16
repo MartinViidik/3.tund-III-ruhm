@@ -52,6 +52,8 @@
 		}
 	}
 	
+	$page_title = "Sisselogimine";
+	$page_file_name = "login.php";
 	require_once("../header.php");
 ?>
 
